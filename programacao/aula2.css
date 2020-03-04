@@ -1,0 +1,13 @@
+.linha { 
+display: flex; 
+flex-direction: row; 
+flex-wrap: wrap; 
+width: 100%; 
+} 
+
+.coluna { 
+display: flex; 
+flex-direction: column; 
+flex-basis: 100%; 
+flex: 1; 
+}
